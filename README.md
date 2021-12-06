@@ -51,7 +51,7 @@ s.no|name|rollno|
 
 strike through text
 
-~~ strikes~~
+~~strikes~~
 
 to add emojis
 
