@@ -10,7 +10,7 @@ Github Workshop day-1
 
 Sytles for normal code
 
-# No spaces between *and itallic
+#### No spaces between *and itallic
 
 *italic*
 
