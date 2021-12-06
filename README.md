@@ -49,3 +49,17 @@ s.no|name|rollno|
 4|Shainy|G9
 5|Nihitha|H5
 
+strike through text
+
+~~ strikes~~
+
+to add emojis
+
+use":" and emoji cheat code
+😃
+😅
+😜
+😇
+
+
+   
